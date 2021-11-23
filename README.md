@@ -12,6 +12,7 @@ Sure it's good enough, but you don't know what you don't know if you've never us
 5. Robust searching including but not limited to filenames and file contents
 6. Calculate folder sizes, not just file sizes
 7. Hash files
+8. ...and many, many more!
 
 ## Directory Opus Themes
 
