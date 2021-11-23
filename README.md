@@ -7,7 +7,6 @@ A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated sp
 |------------|-----------------|
 | 2021/11/23 | Initial release |
 
-
 ## Why Should I Care? Isn't Windows File Explorer Good Enough?
 
 Sure it's good enough, but you don't know what you don't know if you've never used an alternative to File Explorer before, be it Directory Opus or another application. Things Windows File Explorer cannot do that saves an immeasurable amount of time:
