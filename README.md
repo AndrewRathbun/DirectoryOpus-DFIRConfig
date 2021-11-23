@@ -1,6 +1,13 @@
 # DirectoryOpus-DFIRConfig
 A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated specfically for DFIR examiners with shortcuts to common Windows artifacts and settings enabled that help make your life easier with various file management tasks.
 
+## Change Log
+
+| Date       | Comments        |
+|------------|-----------------|
+| 2021/11/23 | Initial release |
+
+
 ## Why Should I Care? Isn't Windows File Explorer Good Enough?
 
 Sure it's good enough, but you don't know what you don't know if you've never used an alternative to File Explorer before, be it Directory Opus or another application. Things Windows File Explorer cannot do that saves an immeasurable amount of time:
