@@ -8,6 +8,9 @@ Sure it's good enough, but you don't know what you don't know if you've never us
 1. Flat View 
 2. Copy files from multiple folders into the same destination folder with choice to recreate (or ignore) each file's directory structure
 3. Queue and stack multiple copy tasks with various unattended options (Have you ever copy something overnight only to find it stalled an hour into it when you wake up the next day?)
+4. Create multiple folders all at once
+5. Robust searching including but not limited to filenames and file contents
+
 
 # Details of this Directory Opus Config File
 
