@@ -92,4 +92,4 @@ Want to learn more about Directory Opus and how insanely customizable it is? Loo
 
 * Add Seconds and Milliseconds to any Time column
 
-https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/SecondsMillisecondsTimeColumn.jpg
+!https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/SecondsMillisecondsTimeColumn.jpg
