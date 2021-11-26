@@ -87,3 +87,9 @@ Want to learn more about Directory Opus and how insanely customizable it is? Loo
 * [Directory Opus meets Quick Access Popup - Discussing 2 great productivity tools](https://www.youtube.com/watch?v=4HGl09aVFgA)
 * [How to use your Folder's Icon in the Taskbar with Directory Opus](https://www.youtube.com/watch?v=aBiqOzHa2r8)
 * [How to create buttons in Directory Opus & learn more amazing tips!](https://www.youtube.com/watch?v=vlh5XqIykLw)
+
+# TO ADD (NEXT RELEASE)
+
+* Add Seconds and Milliseconds to any Time column
+
+https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/SecondsMillisecondsTimeColumn.jpg
