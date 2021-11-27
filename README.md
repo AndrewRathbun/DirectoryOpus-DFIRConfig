@@ -3,10 +3,10 @@ A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated sp
 
 ## Change Log
 
-| Date       | Comments        |
-|------------|-----------------|
-| 2021/11/23 | Initial release |
-| 2021/11/27 | V2 - added seconds/milliseconds in Time column |
+| Date       | Comments                                       | Filenames                                                                        |
+|------------|------------------------------------------------|----------------------------------------------------------------------------------|
+| 2021/11/23 | Initial release                                | [V1](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V1) |
+| 2021/11/27 | V2 - added seconds/milliseconds in Time column | [CurrentBuild](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig)        |
 
 ## Why Should I Care? Isn't Windows File Explorer Good Enough?
 
