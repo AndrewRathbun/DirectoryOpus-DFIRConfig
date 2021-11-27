@@ -6,6 +6,7 @@ A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated sp
 | Date       | Comments        |
 |------------|-----------------|
 | 2021/11/23 | Initial release |
+| 2021/11/27 | V2 - added seconds/milliseconds in Time column |
 
 ## Why Should I Care? Isn't Windows File Explorer Good Enough?
 
@@ -36,7 +37,7 @@ Here's a rundown of what modifications I made to the default configuration of Di
 
 * Enabled automatic folder size calculation
 
-![](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/blob/main/Media/CalculateFolderSizes.jpg)
+![CalculateFolderSizes](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/CalculateFolderSizes.jpg)
 
 * Enabled filter bar by default
 
@@ -72,6 +73,12 @@ Function: `CLI DOSPROMPT=powershell,admin,nocolor`
 
 Function: `CLI DOSPROMPT=admin,nocolor`
 
+**Added in V2**
+
+* Add Seconds and Milliseconds to any Time column
+
+![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/SecondsMillisecondsTimeColumn.jpg)
+
 # Feedback
 
 What do you like? What don't you like? Let me know and I'll consider adding or changing it for the greater good!
@@ -90,6 +97,4 @@ Want to learn more about Directory Opus and how insanely customizable it is? Loo
 
 # TO ADD (NEXT RELEASE)
 
-* Add Seconds and Milliseconds to any Time column
-
-![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/SecondsMillisecondsTimeColumn.jpg)
+Nothing at this time!
