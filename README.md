@@ -7,7 +7,7 @@ A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated sp
 |------------|------------------------------------------------|----------------------------------------------------------------------------------|
 | 2021/11/23 | Initial release                                | [V1](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V1) |
 | 2021/11/27 | V2 - added seconds/milliseconds in Time column | [V2](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V2)        |
-| 2022/06/30 | V3 - Added suggestions from https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/issues/2 and https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/issues/3 | [CurrentBuild](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig)        |
+| 2022/06/30 | V3 - Added suggestions from https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/issues/2 and https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/issues/3 | [V3](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/releases/tag/V3)        |
 
 ## Why Should I Care? Isn't Windows File Explorer Good Enough?
 
