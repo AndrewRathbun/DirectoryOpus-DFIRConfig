@@ -6,7 +6,8 @@ A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated sp
 | Date       | Comments                                       | Filenames                                                                        |
 |------------|------------------------------------------------|----------------------------------------------------------------------------------|
 | 2021/11/23 | Initial release                                | [V1](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V1) |
-| 2021/11/27 | V2 - added seconds/milliseconds in Time column | [CurrentBuild](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig)        |
+| 2021/11/27 | V2 - added seconds/milliseconds in Time column | [V2](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V2)        |
+| 2022/06/30 | V3 - Added suggestions from https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/issues/2 and https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/issues/3 | [CurrentBuild](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig)        |
 
 ## Why Should I Care? Isn't Windows File Explorer Good Enough?
 
@@ -80,6 +81,12 @@ Function: `CLI DOSPROMPT=admin,nocolor`
 
 ![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/SecondsMillisecondsTimeColumn.jpg)
 
+**Added in V3**
+
+* Dark mode font changed to Lime Green
+
+![ColorsandFontsDarkThemeLimeGreen](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/ColorsandFontsDarkThemeLimeGreen.jpg)
+
 # Feedback
 
 What do you like? What don't you like? Let me know and I'll consider adding or changing it for the greater good!
@@ -98,4 +105,4 @@ Want to learn more about Directory Opus and how insanely customizable it is? Loo
 
 # TO ADD (NEXT RELEASE)
 
-Nothing at this time!
+Nothing at this time! Suggest something new in an Issue!
