@@ -27,9 +27,9 @@ Sure it's good enough, but you don't know what you don't know if you've never us
 
 I've provided a Light and Dark theme. See below!
 
-![DOpusPreviewLight.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/DOpusPreviewLight.jpg)
+![DOpusPreviewLight.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/DOpusPreviewLight.jpg)
 
-![DOpusPreviewDark.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/DOpusPreviewDark.jpg)
+![DOpusPreviewDark.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/DOpusPreviewDark.jpg)
 
 Click [here](https://resource.dopus.com/c/themes/24?order=views) for a link to a pre-sorted list of the most viewed themes created for Directory Opus. The Light theme used is default and the Dark theme is [Simple Windows 10 Dark Theme](https://resource.dopus.com/t/simple-windows-10-dark-theme/30055). 
 
@@ -39,39 +39,39 @@ Here's a rundown of what modifications I made to the default configuration of Di
 
 * Enabled automatic folder size calculation
 
-![CalculateFolderSizes](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/CalculateFolderSizes.jpg)
+![CalculateFolderSizes](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/CalculateFolderSizes.jpg)
 
 * Enabled filter bar by default
 
-![DisplayFilterBar.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/DisplayFilterBar.jpg)
+![DisplayFilterBar.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/DisplayFilterBar.jpg)
 
 * Enabled Dual Folder Tree by default, when in Dual Horizontal mode
 
-![DualFolderTree.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/DualFolderTree.jpg)
+![DualFolderTree.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/DualFolderTree.jpg)
 
 * Enabled Highlight Path to Selected Folder by default
 
-![HighlightPathtoSelectedFolder.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/HighlightPathtoSelectedFolder.jpg)
+![HighlightPathtoSelectedFolder.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/HighlightPathtoSelectedFolder.jpg)
 
 * Adjusted various default settings, including new tab opens to This PC by default
 
-![ListerTabOptions.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/ListerTabOptions.jpg)
+![ListerTabOptions.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/ListerTabOptions.jpg)
 
 * Enabled automatic folder size enumeration for Network Drives by default
 
-![NetworkDrivesAutoLoadonTabActivation.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/NetworkDrivesAutoLoadonTabActivation.jpg)
+![NetworkDrivesAutoLoadonTabActivation.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/NetworkDrivesAutoLoadonTabActivation.jpg)
 
 * Enabled relative graphs for File Size and Last Modified timestamp
 
-![RelativeGraphsSizeModifiedDate.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/RelativeGraphsSizeModifiedDate.jpg)
+![RelativeGraphsSizeModifiedDate.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/RelativeGraphsSizeModifiedDate.jpg)
 
 * Enabled PowerShell Here (Admin) and Command Prompt Here (Admin) in the right-click context menu
 
-![CommandPromptAdminHere.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/CommandPromptAdminHere.jpg)
+![CommandPromptAdminHere.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/CommandPromptAdminHere.jpg)
 
 Function: `CLI DOSPROMPT=powershell,admin,nocolor`
 
-![PowerShellAdminHere.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/PowerShellAdminHere.jpg)
+![PowerShellAdminHere.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/PowerShellAdminHere.jpg)
 
 Function: `CLI DOSPROMPT=admin,nocolor`
 
@@ -79,13 +79,13 @@ Function: `CLI DOSPROMPT=admin,nocolor`
 
 * Add Seconds and Milliseconds to any Time column
 
-![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/SecondsMillisecondsTimeColumn.jpg)
+![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/SecondsMillisecondsTimeColumn.jpg)
 
 **Added in V3**
 
 * Dark mode font changed to Lime Green
 
-![ColorsandFontsDarkThemeLimeGreen](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/ColorsandFontsDarkThemeLimeGreen.jpg)
+![ColorsandFontsDarkThemeLimeGreen](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/ColorsandFontsDarkThemeLimeGreen.jpg)
 
 # Feedback
 
