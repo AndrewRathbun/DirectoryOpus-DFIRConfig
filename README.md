@@ -1,13 +1,12 @@
 # DirectoryOpus-DFIRConfig
-A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated specfically for DFIR examiners with shortcuts to common Windows artifacts and settings enabled that help make your life easier with various file management tasks.
+
+A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated specifically for DFIR examiners with shortcuts to common Windows artifacts and settings enabled that help make your life easier with various file management tasks.
 
 ## Change Log
 
-| Date       | Comments                                       | Filenames                                                                        |
+| Date       | Comments                                       | Filename(s)                                                                        |
 |------------|------------------------------------------------|----------------------------------------------------------------------------------|
-| 2021/11/23 | Initial release                                | [V1](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V1) |
-| 2021/11/27 | V2 - added seconds/milliseconds in Time column | [V2](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V2)        |
-| 2022/06/30 | V3 - Added suggestions from https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/issues/2 and https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/issues/3 | [V3](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/releases/tag/V3)        |
+| 2025-01-06 | Initial release for Directory Opus v13                                | [V1](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V1) |
 
 ## Why Should I Care? Isn't Windows File Explorer Good Enough?
 
@@ -23,69 +22,57 @@ Sure it's good enough, but you don't know what you don't know if you've never us
 8. Copy filenames and full pathnames of all highlighted files in the right click context menu
 9. ...and many, many more!
 
-## Directory Opus Themes
-
-I've provided a Light and Dark theme. See below!
-
-![DOpusPreviewLight.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/DOpusPreviewLight.jpg)
-
-![DOpusPreviewDark.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/DOpusPreviewDark.jpg)
-
-Click [here](https://resource.dopus.com/c/themes/24?order=views) for a link to a pre-sorted list of the most viewed themes created for Directory Opus. The Light theme used is default and the Dark theme is [Simple Windows 10 Dark Theme](https://resource.dopus.com/t/simple-windows-10-dark-theme/30055). 
-
 ## Details of this Directory Opus Config File
 
 Here's a rundown of what modifications I made to the default configuration of Directory Opus. 
 
+* Dual Horizontal (Lister) and Dual Folder Tree
+
+![DualHorizontalandDualFolderTree](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/DualHorizontalandDualFolderTree.gif)
+
 * Enabled automatic folder size calculation
 
-![CalculateFolderSizes](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/CalculateFolderSizes.jpg)
+![CalculateFolderSizes](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/CalculateFolderSizes.jpg)
 
 * Enabled filter bar by default
 
-![DisplayFilterBar.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/DisplayFilterBar.jpg)
-
-* Enabled Dual Folder Tree by default, when in Dual Horizontal mode
-
-![DualFolderTree.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/DualFolderTree.jpg)
+![DisplayFilterBar](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13\DisplayFilterBar.png)
 
 * Enabled Highlight Path to Selected Folder by default
 
-![HighlightPathtoSelectedFolder.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/HighlightPathtoSelectedFolder.jpg)
+![HighlightPathtoSelectedFolder](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/HighlightPathtoSelectedFolder.jpg)
 
-* Adjusted various default settings, including new tab opens to This PC by default
+* New tab default opens This PC
 
-![ListerTabOptions.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/ListerTabOptions.jpg)
+![NewTabDefaultToThisPC](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/NewTabDefaultToThisPC.pn)
+
+* Display drive letter in tab label
+
+![DisplayDriveLetterTabLabel](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/DisplayDriveLetterTabLabel.png)
 
 * Enabled automatic folder size enumeration for Network Drives by default
 
-![NetworkDrivesAutoLoadonTabActivation.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/NetworkDrivesAutoLoadonTabActivation.jpg)
+![NetworkDrivesAutoLoadonTabActivation.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/NetworkDrivesAutoLoadonTabActivation.png)
+
 
 * Enabled relative graphs for File Size and Last Modified timestamp
 
-![RelativeGraphsSizeModifiedDate.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/RelativeGraphsSizeModifiedDate.jpg)
+![RelativeGraphsSizeModifiedDate.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/RelativeGraphsSizeModifiedDate.png)
 
 * Enabled PowerShell Here (Admin) and Command Prompt Here (Admin) in the right-click context menu
 
-![CommandPromptAdminHere.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/CommandPromptAdminHere.jpg)
-
 Function: `CLI DOSPROMPT=powershell,admin,nocolor`
-
-![PowerShellAdminHere.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/PowerShellAdminHere.jpg)
-
 Function: `CLI DOSPROMPT=admin,nocolor`
 
-**Added in V2**
+![PSandCMDAdminAddToContextMenu.gif](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/PSandCMDAdminAddToContextMenu.gif)
 
 * Add Seconds and Milliseconds to any Time column
 
-![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/SecondsMillisecondsTimeColumn.jpg)
+![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/SecondsMillisecondsTimeColumn.png)
 
-**Added in V3**
+* Dark Mode is easier than ever in Directory Opus v13
 
-* Dark mode font changed to Lime Green
-
-![ColorsandFontsDarkThemeLimeGreen](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v12/ColorsandFontsDarkThemeLimeGreen.jpg)
+![DarkModeToggle.gif](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/DarkModeToggle.gif)
 
 # Feedback
 
@@ -102,6 +89,9 @@ Want to learn more about Directory Opus and how insanely customizable it is? Loo
 * [Directory Opus meets Quick Access Popup - Discussing 2 great productivity tools](https://www.youtube.com/watch?v=4HGl09aVFgA)
 * [How to use your Folder's Icon in the Taskbar with Directory Opus](https://www.youtube.com/watch?v=aBiqOzHa2r8)
 * [How to create buttons in Directory Opus & learn more amazing tips!](https://www.youtube.com/watch?v=vlh5XqIykLw)
+* [Directory Opus 13: Highlights](https://www.youtube.com/watch?v=K57m_Ogy8Lg)
+* [Directory Opus: Toolbar Editing](https://www.youtube.com/watch?v=ZM-B-YJzqjA)
+* [Directory Opus YouTube Playlist by MonroeWorld](https://www.youtube.com/playlist?list=PLMcmWOVaPtGmxhrZUr10C8PBb5DGVCnEv)
 
 # TO ADD (NEXT RELEASE)
 
