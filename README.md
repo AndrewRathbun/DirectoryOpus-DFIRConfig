@@ -70,6 +70,10 @@ Function: `CLI DOSPROMPT=admin,nocolor`
 
 ![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/SecondsMillisecondsTimeColumn.png)
 
+* Dark Mode is easier than ever in Directory Opus v13
+
+![DarkModeToggle.gif](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/DarkModeToggle.gif)
+
 # Feedback
 
 What do you like? What don't you like? Let me know and I'll consider adding or changing it for the greater good!
