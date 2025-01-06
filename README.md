@@ -32,11 +32,11 @@ Here's a rundown of what modifications I made to the default configuration of Di
 
 * Enabled automatic folder size calculation
 
-![CalculateFolderSizes](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/CalculateFolderSizes.jpg)
+![CalculateFolderSizes](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/CalculateFolderSizes.jpg)
 
 * Enabled filter bar by default
 
-![DisplayFilterBar](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13\DisplayFilterBar.png)
+![DisplayFilterBar](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/DisplayFilterBar.png)
 
 * Enabled Highlight Path to Selected Folder by default
 
@@ -44,7 +44,7 @@ Here's a rundown of what modifications I made to the default configuration of Di
 
 * New tab default opens This PC
 
-![NewTabDefaultToThisPC](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/NewTabDefaultToThisPC.pn)
+![NewTabDefaultToThisPC](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/NewTabDefaultToThisPC.png)
 
 * Display drive letter in tab label
 
@@ -52,27 +52,27 @@ Here's a rundown of what modifications I made to the default configuration of Di
 
 * Enabled automatic folder size enumeration for Network Drives by default
 
-![NetworkDrivesAutoLoadonTabActivation.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/NetworkDrivesAutoLoadonTabActivation.png)
-
+![NetworkDrivesAutoLoadonTabActivation.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/NetworkDrivesAutoLoadonTabActivation.png)
 
 * Enabled relative graphs for File Size and Last Modified timestamp
 
-![RelativeGraphsSizeModifiedDate.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/RelativeGraphsSizeModifiedDate.png)
+![RelativeGraphsSizeModifiedDate.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/RelativeGraphsSizeModifiedDate.png)
 
 * Enabled PowerShell Here (Admin) and Command Prompt Here (Admin) in the right-click context menu
 
 Function: `CLI DOSPROMPT=powershell,admin,nocolor`
+
 Function: `CLI DOSPROMPT=admin,nocolor`
 
-![PSandCMDAdminAddToContextMenu.gif](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/PSandCMDAdminAddToContextMenu.gif)
+![PSandCMDAdminAddToContextMenu.gif](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/PSandCMDAdminAddToContextMenu.gif)
 
 * Add Seconds and Milliseconds to any Time column
 
-![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/SecondsMillisecondsTimeColumn.png)
+![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/SecondsMillisecondsTimeColumn.png)
 
 * Dark Mode is easier than ever in Directory Opus v13
 
-![DarkModeToggle.gif](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/DarkModeToggle.gif)
+![DarkModeToggle.gif](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/DarkModeToggle.gif)
 
 # Feedback
 
