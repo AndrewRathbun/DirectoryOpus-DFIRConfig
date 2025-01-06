@@ -1,12 +1,12 @@
 # DirectoryOpus-DFIRConfig
 
-A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated specfically for DFIR examiners with shortcuts to common Windows artifacts and settings enabled that help make your life easier with various file management tasks.
+A config file for [Directory Opus](https://www.gpsoft.com.au/) that's curated specifically for DFIR examiners with shortcuts to common Windows artifacts and settings enabled that help make your life easier with various file management tasks.
 
 ## Change Log
 
 | Date       | Comments                                       | Filename(s)                                                                        |
 |------------|------------------------------------------------|----------------------------------------------------------------------------------|
-| 2024/6/3 | Initial release for Directory Opus v13                                | [V1](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V1) |
+| 2025-01-06 | Initial release for Directory Opus v13                                | [V1](https://github.com/AndrewRathbun/DirectoryOpus-DFIRConfig/tree/main/Old/V1) |
 
 ## Why Should I Care? Isn't Windows File Explorer Good Enough?
 
@@ -26,55 +26,49 @@ Sure it's good enough, but you don't know what you don't know if you've never us
 
 Here's a rundown of what modifications I made to the default configuration of Directory Opus. 
 
+* Dual Horizontal (Lister) and Dual Folder Tree
+
+![DualHorizontalandDualFolderTree](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/refs/heads/main/Media/v13/DualHorizontalandDualFolderTree.gif)
+
 * Enabled automatic folder size calculation
 
-![CalculateFolderSizes](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/CalculateFolderSizes.jpg)
+![CalculateFolderSizes](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/CalculateFolderSizes.jpg)
 
 * Enabled filter bar by default
 
-![DisplayFilterBar.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/DisplayFilterBar.jpg)
-
-* Enabled Dual Folder Tree by default, when in Dual Horizontal mode
-
-![DualFolderTree.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/DualFolderTree.jpg)
+![DisplayFilterBar](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13\DisplayFilterBar.png)
 
 * Enabled Highlight Path to Selected Folder by default
 
-![HighlightPathtoSelectedFolder.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/HighlightPathtoSelectedFolder.jpg)
+![HighlightPathtoSelectedFolder](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/HighlightPathtoSelectedFolder.jpg)
 
-* Adjusted various default settings, including new tab opens to This PC by default
+* New tab default opens This PC
 
-![ListerTabOptions.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/ListerTabOptions.jpg)
+![NewTabDefaultToThisPC](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/NewTabDefaultToThisPC.pn)
+
+* Display drive letter in tab label
+
+![DisplayDriveLetterTabLabel](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/DisplayDriveLetterTabLabel.png)
 
 * Enabled automatic folder size enumeration for Network Drives by default
 
-![NetworkDrivesAutoLoadonTabActivation.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/NetworkDrivesAutoLoadonTabActivation.jpg)
+![NetworkDrivesAutoLoadonTabActivation.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/v13/NetworkDrivesAutoLoadonTabActivation.png)
+
 
 * Enabled relative graphs for File Size and Last Modified timestamp
 
-![RelativeGraphsSizeModifiedDate.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/RelativeGraphsSizeModifiedDate.jpg)
+![RelativeGraphsSizeModifiedDate.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/RelativeGraphsSizeModifiedDate.png)
 
 * Enabled PowerShell Here (Admin) and Command Prompt Here (Admin) in the right-click context menu
 
-![CommandPromptAdminHere.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/CommandPromptAdminHere.jpg)
-
 Function: `CLI DOSPROMPT=powershell,admin,nocolor`
-
-![PowerShellAdminHere.jpg](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/PowerShellAdminHere.jpg)
-
 Function: `CLI DOSPROMPT=admin,nocolor`
 
-**Added in V2**
+![PSandCMDAdminAddToContextMenu.gif](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/PSandCMDAdminAddToContextMenu.gif)
 
 * Add Seconds and Milliseconds to any Time column
 
-![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/SecondsMillisecondsTimeColumn.jpg)
-
-**Added in V3**
-
-* Dark mode font changed to Lime Green
-
-![ColorsandFontsDarkThemeLimeGreen](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media/ColorsandFontsDarkThemeLimeGreen.jpg)
+![SecondsMillisecondsTimeColumn](https://raw.githubusercontent.com/AndrewRathbun/DirectoryOpus-DFIRConfig/main/Media//v13/SecondsMillisecondsTimeColumn.png)
 
 # Feedback
 
@@ -91,6 +85,9 @@ Want to learn more about Directory Opus and how insanely customizable it is? Loo
 * [Directory Opus meets Quick Access Popup - Discussing 2 great productivity tools](https://www.youtube.com/watch?v=4HGl09aVFgA)
 * [How to use your Folder's Icon in the Taskbar with Directory Opus](https://www.youtube.com/watch?v=aBiqOzHa2r8)
 * [How to create buttons in Directory Opus & learn more amazing tips!](https://www.youtube.com/watch?v=vlh5XqIykLw)
+* [Directory Opus 13: Highlights](https://www.youtube.com/watch?v=K57m_Ogy8Lg)
+* [Directory Opus: Toolbar Editing](https://www.youtube.com/watch?v=ZM-B-YJzqjA)
+* [Directory Opus YouTube Playlist by MonroeWorld](https://www.youtube.com/playlist?list=PLMcmWOVaPtGmxhrZUr10C8PBb5DGVCnEv)
 
 # TO ADD (NEXT RELEASE)
 
